@@ -1,7 +1,6 @@
 import { StrictMode } from "react";
 import { App } from "./App";
 import { createRoot } from "react-dom/client";
-import "./layout.scss"
 import { Router } from "./Router";
 import ReactDOM  from "react-dom";
 
